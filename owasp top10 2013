@@ -1,10 +1,10 @@
 A1 injection
 ```
 ```
-# A2 – Broken Authentication and Session Management
+A2 – Broken Authentication and Session Management
 ```
 ```
-# A3 – Cross-Site Scripting (XSS)
+A3 – Cross-Site Scripting (XSS)
 ```
 ```
 # A4 – Insecure Direct Object References
