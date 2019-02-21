@@ -7,4 +7,5 @@
 2.黑箱測試vs白箱測試
 3.漏洞掃描
 4.滲透測試
+5.WAF(web application firewall)
 ```
